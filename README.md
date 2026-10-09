@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Divinotorez/Divinotorez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- 1. En-tête (Largeur ajustée pour ne pas être géante) -->
+<img width="1998" height="787" alt="ChatGPT Image 9 oct  2026, 19_49_43" src="https://github.com/user-attachments/assets/e35c29e3-edab-4911-a75e-e014a0ba2234" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br><br>
+
+  <!-- 2. Titre avec "Tech Girl" en rose -->
+  <h1 style="font-size: 28px;">
+    Hey, I'm a <span style="color: #E91E63; font-weight: bold;">Tech Girl</span> 👩🏽‍💻
+  </h1>
+  <p style="font-size: 16px; color: #555555;"><em>Aspiring Data Analyst</em></p>
+
+  <br>
+
+  <!-- 3. Icônes des technologies (Toutes à la même hauteur : 40px) -->
+  <p>
+    <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="Excel" height="40" style="vertical-align: middle;" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="40" style="vertical-align: middle;" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/96/python--v1.png" alt="Python" height="40" style="vertical-align: middle;" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/user-attachments/assets/74d90c98-a5df-4fea-80c9-ecdba38406d0" alt="Power BI" height="40" style="vertical-align: middle;" />
+  </p>
+
+  <br><br>
+
+  <!-- 4. Bannière du bas (Occupe toute la largeur du conteneur README) -->
+  <img src="https://github.com/user-attachments/assets/3c1e13c9-3165-4b45-b6fd-39090b7999fd" alt="Data Analysis" width="100%" style="max-width: 800px; border-radius: 10px;" />
+
+</div>

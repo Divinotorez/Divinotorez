@@ -10,7 +10,7 @@
   <h1 style="font-size: 28px;">
     Hey, I'm a <span style="color: #E91E63; font-weight: bold;">Tech Girl</span> 👩🏽‍💻
   </h1>
-  <p style="font-size: 16px; color: #555555;"><em>Aspiring Data Analyst</em></p>
+  <p style="font-size: 16px; color: #555555;"><em>Aspiring Data Analyst and BI</em></p>
 
   <br>
 
@@ -28,6 +28,6 @@
   <br><br>
 
   <!-- 4. Bannière du bas (Occupe toute la largeur du conteneur README) -->
-  <img src="https://github.com/user-attachments/assets/3c1e13c9-3165-4b45-b6fd-39090b7999fd" alt="Data Analysis" width="100%" style="max-width: 800px; border-radius: 10px;" />
+  
 
 </div>

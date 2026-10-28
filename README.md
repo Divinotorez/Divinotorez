@@ -10,7 +10,7 @@
   <h1 style="font-size: 28px;">
     Hey, I'm a <span style="color: #E91E63; font-weight: bold;">Tech Girl</span> 👩🏽‍💻
   </h1>
-  <p style="font-size: 16px; color: #555555;"><em>Aspiring Data Analyst and BI</em></p>
+  <p style="font-size: 16px; color: #555555;"><em>Aspiring Data Professional | Exploring the World of Data</em></p>
 
   <br>
 
